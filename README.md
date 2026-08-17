@@ -1,9 +1,9 @@
 # UKB_PA_Fracture
 UK Biobank: This repository contains the code for 3 linked studies of activity and fracture risk  
 
-Study 1: Cross sectional association of self-report PA and self-report fracture - Code starts wth CXA
-Study 2: Survival study of self-report PA and HES fracture - Code starts with TTE
-Study 3: Survival study of accelerometer PA and HES fracture
+- Study 1: Cross sectional association of self-report PA and self-report fracture - Code starts wth CXA
+- Study 2: Survival study of self-report PA and HES fracture - Code starts with TTE
+- Study 3: Survival study of accelerometer PA and HES fracture
 
 ## How to reproduce
 
