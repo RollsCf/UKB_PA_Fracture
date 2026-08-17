@@ -13,11 +13,12 @@ Study 3: Survival study of accelerometer PA and HES fracture
 4. Outputs (tables and figures) will appear in `/results/`.
 
 ## Dependencies
-- R version: tbd
+- R version and structure of folders is detailed in the config.env, acrtivate.R and Renv.lock files
 - Key packages: tidyverse, survival, tableone, ggplot2, knitr, rmarkdown
 
 ## Data security
 - No UK Biobank data had been committed to Git.
 - Data storage complies with institutional and UKB data access rules.
+- Files were loaded manually rather than by gitpush, a git.ignore file should be used if working straight from R
 
 
